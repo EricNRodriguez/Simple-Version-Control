@@ -1,0 +1,2 @@
+/usr/bin/ar qc libassignment_2_svc.a  CMakeFiles/assignment_2_svc.dir/svc.c.o CMakeFiles/assignment_2_svc.dir/gg.c.o
+/usr/bin/ranlib libassignment_2_svc.a

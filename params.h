@@ -1,0 +1,17 @@
+#ifndef ASSIGNMENT_2_SVC_PARAMS_H
+#define ASSIGNMENT_2_SVC_PARAMS_H
+
+#define SVC_DIR_PATH "./.svc/"
+#define SVC_FILE_PATH_FMT "./.svc/%x.svc"
+#define HASH_HEX_SIZE 19
+#define INIT_COMMIT_SIZE 10
+#define INIT_BRANCHES_SIZE 2
+#define INIT_STAGING_SIZE 2
+#define INIT_SNAPSHOT_SIZE 1
+#define DEFAULT_BRANCH_NAME "master"
+#define MASTER_BRANCH_INDEX 0
+#define ARRAY_GROWTH_RATE 2
+#define BRANCH_NAME_REGEX  "[0-9a-zA-Z/_-]+$"
+#define MAX_BRANCH_NAME_LEN 50
+
+#endif //ASSIGNMENT_2_SVC_PARAMS_H

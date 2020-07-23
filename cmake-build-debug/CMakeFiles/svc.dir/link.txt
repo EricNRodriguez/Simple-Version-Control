@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsvc.a  CMakeFiles/svc.dir/svc.c.o
+/usr/bin/ranlib libsvc.a

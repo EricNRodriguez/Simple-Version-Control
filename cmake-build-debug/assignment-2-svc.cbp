@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="assignment-2-svc"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment-2-svc">
+				<Option output="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/libassignment-2-svc.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment-2-svc"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="assignment-2-svc/fast">
+				<Option output="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/libassignment-2-svc.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 assignment-2-svc/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/branch/branch.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/branch/branch.h">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/commit/commit.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/commit/commit.h">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/memory/memory.h">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/memory/safe_alloc.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/memory/string_copy.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/snapshot/snapshot.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/snapshot/snapshot.h">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/svc.c">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/svc.h">
+			<Option target="assignment-2-svc"/>
+		</Unit>
+		<Unit filename="/home/eric/c/COMP2017/assignments/assignment-2-svc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
