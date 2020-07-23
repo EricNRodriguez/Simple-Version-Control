@@ -1,4 +1,0 @@
-/home/eric/Downloads/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/bin/gcc -G "CodeBlocks - Unix Makefiles" /home/eric/c/COMP2017/assignments/assignment-2-svc
--- Configuring done
--- Generating done
--- Build files have been written to: /home/eric/c/COMP2017/assignments/assignment-2-svc/cmake-build-debug

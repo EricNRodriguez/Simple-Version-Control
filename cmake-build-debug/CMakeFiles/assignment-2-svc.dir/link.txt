@@ -1,2 +1,0 @@
-/usr/bin/ar qc libassignment-2-svc.a  CMakeFiles/assignment-2-svc.dir/svc.c.o CMakeFiles/assignment-2-svc.dir/memory/safe_alloc.c.o CMakeFiles/assignment-2-svc.dir/memory/string_copy.c.o CMakeFiles/assignment-2-svc.dir/branch/branch.c.o CMakeFiles/assignment-2-svc.dir/commit/commit.c.o CMakeFiles/assignment-2-svc.dir/snapshot/snapshot.c.o
-/usr/bin/ranlib libassignment-2-svc.a
